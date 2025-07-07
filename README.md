@@ -13,7 +13,7 @@ I'm a **graduate Electrical Engineer** with a strong background in **Hardware (H
 * **Platforms/Architectures:** FPGAs, Microcontrollers
 
 **Software (SW):**
-* **Programming Languages:** <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" alt="Python" width="30" height="30"/> Python, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" alt="C" width="30" height="30"/> C, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/matlab.svg" alt="MATLAB" width="30" height="30"/> MATLAB
+* **Programming Languages:** <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" alt="Python" width="30" height="30"/> Python, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" alt="C" width="30" height="30"/> C, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="30" height="30"/> MATLAB
 * **Platforms & Environments:** <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/arduino.svg" alt="Arduino" width="30" height="30"/> Arduino, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stmicroelectronics.svg" alt="STM32" width="30" height="30"/> STM32, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/espressif.svg" alt="ESP32" width="30" height="30"/> ESP32, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/raspberrypi.svg" alt="Raspberry Pi" width="30" height="30"/> Raspberry Pi, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg" alt="Linux" width="30" height="30"/> Linux
 
 ### Featured Projects
