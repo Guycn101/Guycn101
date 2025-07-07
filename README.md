@@ -9,12 +9,12 @@ I'm a **graduate Electrical Engineer** with a strong background in **Hardware (H
 ### Technologies & Tools I Work With:
 
 **Hardware (HW):**
-* **Hardware Description Languages:** Verilog, SystemVerilog, VHDL
+* **Hardware Description Languages:** <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/verilog.svg" alt="Verilog" width="30" height="30"/> Verilog, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/systemverilog.svg" alt="SystemVerilog" width="30" height="30"/> SystemVerilog, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vhdl.svg" alt="VHDL" width="30" height="30"/> VHDL
 * **Platforms/Architectures:** FPGAs, Microcontrollers
 
 **Software (SW):**
-* **Programming Languages:** Python, C, MATLAB
-* **Platforms & Environments:** Arduino, STM32, ESP32, Raspberry Pi, Linux
+* **Programming Languages:** <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/python.svg" alt="Python" width="30" height="30"/> Python, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/c.svg" alt="C" width="30" height="30"/> C, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/matlab.svg" alt="MATLAB" width="30" height="30"/> MATLAB
+* **Platforms & Environments:** <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/arduino.svg" alt="Arduino" width="30" height="30"/> Arduino, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/stmicroelectronics.svg" alt="STM32" width="30" height="30"/> STM32, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/espressif.svg" alt="ESP32" width="30" height="30"/> ESP32, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/raspberrypi.svg" alt="Raspberry Pi" width="30" height="30"/> Raspberry Pi, <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linux.svg" alt="Linux" width="30" height="30"/> Linux
 
 ### Featured Projects
 
